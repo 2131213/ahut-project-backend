@@ -1,7 +1,7 @@
-package org.example.service;
+package org.example.web.sys_user.service;
 
 import com.baomidou.mybatisplus.extension.service.IService;
-import org.example.domain.SysUser;
+import org.example.web.sys_user.entity.SysUser;
 
 /**
 * @author Jun不见

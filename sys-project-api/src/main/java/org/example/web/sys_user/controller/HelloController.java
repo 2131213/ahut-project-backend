@@ -1,4 +1,4 @@
-package org.example.controller;
+package org.example.web.sys_user.controller;
 
 
 import org.example.utils.ResultVo;

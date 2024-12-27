@@ -1,4 +1,4 @@
-package org.example.domain;
+package org.example.web.sys_user.entity;
 import lombok.Data;
 
 @Data

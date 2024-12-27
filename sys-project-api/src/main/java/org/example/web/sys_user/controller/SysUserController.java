@@ -1,12 +1,12 @@
-package org.example.controller;
+package org.example.web.sys_user.controller;
 
 import com.baomidou.mybatisplus.core.conditions.query.QueryWrapper;
 import com.baomidou.mybatisplus.core.metadata.IPage;
 import com.baomidou.mybatisplus.extension.plugins.pagination.Page;
 import org.apache.commons.lang.StringUtils;
-import org.example.domain.SysUser;
-import org.example.domain.SysUserParam;
-import org.example.service.SysUserService;
+import org.example.web.sys_user.entity.SysUser;
+import org.example.web.sys_user.entity.SysUserParam;
+import org.example.web.sys_user.service.SysUserService;
 import org.example.utils.ResultVo;
 import org.springframework.web.bind.annotation.*;
 
